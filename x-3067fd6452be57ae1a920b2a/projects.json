@@ -1,0 +1,503 @@
+{
+  "meta": {
+    "source": "Yad2 search-page new-projects carousel (yad1.topGallery), collected 2026-11-23 together with the listings. Not the same as the 313 for-sale listings.",
+    "n": 31
+  },
+  "projects": [
+    {
+      "source": "yad1.topGallery",
+      "token": "19563",
+      "slug": "d97e3fd2",
+      "projectId": 1019475,
+      "flag": "פרויקט במבצע",
+      "minPrice": 3990000,
+      "maxPrice": 3990000,
+      "minRooms": 5,
+      "maxRooms": 6,
+      "minSqm": 109.3,
+      "maxSqm": 167.4,
+      "companies": [
+        "בוני בניין"
+      ],
+      "street": "המעלות",
+      "neighborhood": "מרכז דרום"
+    },
+    {
+      "source": "yad1.topGallery",
+      "token": "13013",
+      "slug": "6f715db7",
+      "projectId": 1019445,
+      "flag": "פרויקט במבצע",
+      "minPrice": 2680000,
+      "maxPrice": 4150000,
+      "minRooms": 3,
+      "maxRooms": 5,
+      "minSqm": 75,
+      "maxSqm": 136,
+      "companies": [
+        "מבני שלהב 1987 בע\"מ"
+      ],
+      "street": "שברץ",
+      "neighborhood": "נווה דוד רמז"
+    },
+    {
+      "source": "yad1.topGallery",
+      "token": "15853",
+      "slug": "49925be3",
+      "projectId": 1019031,
+      "flag": "פרויקט חדש",
+      "minPrice": 3700000,
+      "maxPrice": 3700000,
+      "minRooms": 3,
+      "maxRooms": 5,
+      "minSqm": 70,
+      "maxSqm": 116,
+      "companies": [
+        "נוה שוסטר"
+      ],
+      "street": "מאה ושישים",
+      "neighborhood": "מרכז דרום"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "15897",
+      "slug": "3ee6fa78",
+      "projectId": 1019504,
+      "flag": "פרויקט במבצע",
+      "minPrice": 2435000,
+      "maxPrice": 2435000,
+      "minRooms": 2.5,
+      "maxRooms": 5,
+      "minSqm": 62.3,
+      "maxSqm": 206,
+      "companies": [
+        "בוני בניין"
+      ],
+      "street": "אליעזר יפה",
+      "neighborhood": "נווה דוד רמז"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "16212",
+      "slug": "3148adc7",
+      "projectId": 1000358,
+      "flag": "פרויקט במבצע",
+      "minPrice": 3680000,
+      "maxPrice": 3680000,
+      "minRooms": 4,
+      "maxRooms": 4,
+      "maxSqm": 0,
+      "companies": [
+        "קבוצת שבירו יזמות ובנייה"
+      ],
+      "street": "עלי מוהר",
+      "neighborhood": "נווה זמר"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "19423",
+      "slug": "3a0652c7",
+      "projectId": 1019410,
+      "flag": "פרויקט במבצע",
+      "minPrice": 3150000,
+      "maxPrice": 3150000,
+      "minRooms": 4,
+      "maxRooms": 5,
+      "maxSqm": 0,
+      "companies": [
+        "אשטרום מגורים"
+      ],
+      "street": "בורוכוב",
+      "neighborhood": "נווה דוד רמז"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "12519",
+      "slug": "2e644503",
+      "projectId": 1000157,
+      "flag": "פרויקט במבצע",
+      "minPrice": 2950000,
+      "maxPrice": 5590000,
+      "minRooms": 3,
+      "maxRooms": 6,
+      "minSqm": 80,
+      "maxSqm": 157,
+      "companies": [
+        "ענב יזום ונדלן"
+      ],
+      "street": "רופין",
+      "neighborhood": "שאר העיר"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "16943",
+      "slug": "bb046ad7",
+      "projectId": 1019474,
+      "flag": "פרויקט במבצע",
+      "minPrice": 2150000,
+      "maxPrice": 2150000,
+      "minRooms": 2,
+      "maxRooms": 5,
+      "minSqm": 53.6,
+      "maxSqm": 181.2,
+      "companies": [
+        "בוני בניין"
+      ],
+      "street": "בילינסון",
+      "neighborhood": "פועלים ב"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "13046",
+      "slug": "0eb79971",
+      "projectId": 1000170,
+      "flag": "פרויקט חדש",
+      "minPrice": 4100000,
+      "maxPrice": 8900000,
+      "minRooms": 3,
+      "maxRooms": 5,
+      "minSqm": 82,
+      "maxSqm": 235,
+      "companies": [
+        "רינובו מגורים"
+      ],
+      "street": "הנדיב",
+      "neighborhood": "מרכז"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "7206",
+      "slug": "dea45d54",
+      "projectId": 1000074,
+      "flag": "פרויקט חדש",
+      "minPrice": 2920000,
+      "maxPrice": 2950000,
+      "minRooms": 4,
+      "maxRooms": 5,
+      "minSqm": 102,
+      "maxSqm": 277,
+      "companies": [
+        "שפיר מגורים ובנין"
+      ],
+      "street": "ניצן",
+      "neighborhood": "נווה רבין"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "18459",
+      "slug": "d1d9782e",
+      "projectId": 1019488,
+      "flag": "פרויקט חדש",
+      "minPrice": 2150000,
+      "maxPrice": 2690000,
+      "minRooms": 3,
+      "maxRooms": 5,
+      "minSqm": 82,
+      "maxSqm": 132.5,
+      "companies": [
+        "קבוצת אהרוני"
+      ],
+      "street": "יערות הכרמל",
+      "neighborhood": "נופי בן שמן"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "19532",
+      "slug": "f58ccd9a",
+      "projectId": 1019463,
+      "flag": "פרויקט במבצע",
+      "minPrice": 2290000,
+      "maxPrice": 3280000,
+      "minRooms": 3,
+      "maxRooms": 5,
+      "minSqm": 84,
+      "maxSqm": 145,
+      "companies": [
+        "קבוצת דורות"
+      ],
+      "street": "שלום שבזי",
+      "neighborhood": "מחנה יהודה"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "17920",
+      "slug": "b52fee7f",
+      "projectId": 1019021,
+      "flag": "פרויקט במבצע",
+      "minPrice": 2175000,
+      "maxPrice": 2175000,
+      "minRooms": 3,
+      "maxRooms": 5,
+      "minSqm": 78,
+      "maxSqm": 138,
+      "companies": [
+        "י.ח דמרי"
+      ],
+      "street": "סביון",
+      "neighborhood": "קרית גיורא"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "14301",
+      "slug": "56176c4e",
+      "projectId": 1017942,
+      "flag": "פרויקט במבצע",
+      "minPrice": 3900000,
+      "maxPrice": 3900000,
+      "minRooms": 4,
+      "maxRooms": 5,
+      "maxSqm": 0,
+      "companies": [
+        "מצלאוי"
+      ],
+      "street": "הרימון",
+      "neighborhood": "קיראון"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "15575",
+      "slug": "cca6b710",
+      "projectId": 1000258,
+      "flag": "פרויקט במבצע",
+      "minPrice": 3199000,
+      "maxPrice": 4500000,
+      "minRooms": 3,
+      "maxRooms": 5,
+      "minSqm": 73.8,
+      "maxSqm": 245,
+      "companies": [
+        "קבוצת גבאי"
+      ],
+      "street": "המדרגות",
+      "neighborhood": "שאר העיר"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "14702",
+      "slug": "1c54db05",
+      "projectId": 1019476,
+      "flag": "פרויקט חדש",
+      "minPrice": 2190000,
+      "maxPrice": 4150000,
+      "minRooms": 3,
+      "maxRooms": 5,
+      "minSqm": 64,
+      "maxSqm": 175,
+      "companies": [
+        "קטה נדל\"ן"
+      ],
+      "street": "הנשיאים",
+      "neighborhood": "כפר גנים א"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "16073",
+      "slug": "545759e4",
+      "projectId": 1019432,
+      "flag": "פרויקט חדש",
+      "minPrice": 2960000,
+      "maxPrice": 7890000,
+      "minRooms": 3,
+      "maxRooms": 6,
+      "minSqm": 83,
+      "maxSqm": 292,
+      "companies": [
+        "רינובו מגורים"
+      ],
+      "street": "יהודה הלוי",
+      "neighborhood": "מרכז"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "16213",
+      "slug": "55eb1370",
+      "projectId": 1000359,
+      "flag": "פרויקט חדש",
+      "minPrice": 3390000,
+      "maxPrice": 3390000,
+      "minRooms": 5,
+      "maxRooms": 7,
+      "maxSqm": 0,
+      "companies": [
+        "אאורה ישראל"
+      ],
+      "street": "אשכנזי",
+      "neighborhood": "ליבת העיר"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "15061",
+      "slug": "d77e5d31",
+      "projectId": 1000227,
+      "flag": "פרויקט חדש",
+      "minPrice": 3550000,
+      "maxPrice": 3550000,
+      "minRooms": 5,
+      "maxRooms": 6,
+      "maxSqm": 124,
+      "companies": [
+        "יעקבי יוניברסל"
+      ],
+      "street": "פרופ' ישראל ייבין",
+      "neighborhood": "פסגת הדר / נווה עוז הירוקה"
+    },
+    {
+      "source": "yad1.middleGallery",
+      "token": "17935",
+      "slug": "4735f6bb",
+      "projectId": 1019442,
+      "flag": "פרויקט במבצע",
+      "minPrice": 3350000,
+      "maxPrice": 6800000,
+      "minRooms": 3,
+      "maxRooms": 7,
+      "minSqm": 88.5,
+      "maxSqm": 340,
+      "companies": [
+        "רן - אור הנדסה בנייה והשקעות בע\"מ"
+      ],
+      "street": "ג'ו ליברמן",
+      "neighborhood": "חוף הזהב-חבצלת"
+    },
+    {
+      "source": "yad1.solo",
+      "token": "1001850",
+      "slug": "b1a43b89",
+      "projectId": 1005114,
+      "flag": "פרויקט במבצע",
+      "minSqm": 120,
+      "companies": [
+        "גיא - דורון לוי"
+      ],
+      "street": "הרב יצחק נסים",
+      "neighborhood": "לסטר/רבוצקי"
+    },
+    {
+      "source": "yad1.solo",
+      "token": "1000671",
+      "slug": "2e644503",
+      "projectId": 1000157,
+      "flag": "פרויקט במבצע",
+      "minSqm": 157,
+      "companies": [
+        "ענב יזום ונדלן"
+      ],
+      "street": "רופין",
+      "neighborhood": "שאר העיר"
+    },
+    {
+      "source": "yad1.solo",
+      "token": "1013532",
+      "slug": "edcb32ad",
+      "projectId": 1000069,
+      "flag": "פרויקט במבצע",
+      "minSqm": 99,
+      "companies": [
+        "קבוצת שבירו יזמות ובנייה"
+      ],
+      "street": "נוריות",
+      "neighborhood": "נוריות"
+    },
+    {
+      "source": "yad1.solo",
+      "token": "1003355",
+      "slug": "a847275d",
+      "projectId": 1019035,
+      "flag": "פרויקט חדש",
+      "minSqm": 129,
+      "companies": [
+        "יצחק עופר חברה לבניין ופיתוח בע\"מ"
+      ],
+      "street": "דרך רמתיים",
+      "neighborhood": "רמתיים"
+    },
+    {
+      "source": "yad1.solo",
+      "token": "1005046",
+      "slug": "mala",
+      "projectId": 1019097,
+      "flag": "פרויקט במבצע",
+      "companies": [
+        "קבוצת אלמוג"
+      ],
+      "street": "יוספסברג",
+      "neighborhood": "כפר גנים ב"
+    },
+    {
+      "source": "yad1.solo",
+      "token": "1003887",
+      "slug": "riverside",
+      "projectId": 1019060,
+      "flag": "פרויקט חדש",
+      "minSqm": 145,
+      "companies": [
+        "אלקטרה מגורים"
+      ],
+      "street": "461",
+      "neighborhood": "גדות"
+    },
+    {
+      "source": "yad1.solo",
+      "token": "1006447",
+      "slug": "b79514c8",
+      "projectId": 1019266,
+      "flag": "פרויקט במבצע",
+      "minSqm": 107,
+      "companies": [
+        "קבוצת דוד אזולאי"
+      ],
+      "street": "הטורים",
+      "neighborhood": "נוף השרון"
+    },
+    {
+      "source": "yad1.solo",
+      "token": "1014412",
+      "slug": "om",
+      "projectId": 1019493,
+      "flag": "פרויקט חדש",
+      "companies": [
+        "אלטנוילנד"
+      ],
+      "street": "אהבה",
+      "neighborhood": "מגדיאל"
+    },
+    {
+      "source": "yad1.solo",
+      "token": "1001793",
+      "slug": "fc06de6c",
+      "projectId": 1000415,
+      "flag": "פרויקט חדש",
+      "companies": [
+        "אאורה ישראל"
+      ],
+      "street": "הרצל",
+      "neighborhood": "מרכז העיר"
+    },
+    {
+      "source": "yad1.solo",
+      "token": "1005866",
+      "slug": "2effe03c",
+      "projectId": 1019163,
+      "flag": "פרויקט במבצע",
+      "companies": [
+        "קבוצת שבירו יזמות ובנייה"
+      ],
+      "street": "רוטשילד",
+      "neighborhood": "לב המושבה / מרכז העיר"
+    },
+    {
+      "source": "yad1.solo",
+      "token": "1002642",
+      "slug": "1e40d72f",
+      "projectId": 1018849,
+      "flag": "פרויקט במבצע",
+      "minSqm": 142,
+      "companies": [
+        "קבוצת שי חי",
+        "עמרם אברהם"
+      ],
+      "street": "לויתן",
+      "neighborhood": "חוף הזהב-חבצלת"
+    }
+  ]
+}

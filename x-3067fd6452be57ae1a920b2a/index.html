@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Раанана — карта и калькулятор</title>
+<style>
+  :root {
+    --bg: #f4f1ea;
+    --panel: #fffcf7;
+    --ink: #1c1917;
+    --muted: #57534e;
+    --line: #e7e0d4;
+    --accent: #9f1239;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--ink); }
+  body {
+    font-family: "Noto Sans", "Segoe UI", system-ui, sans-serif;
+    line-height: 1.45;
+    padding: max(20px, env(safe-area-inset-top)) max(16px, env(safe-area-inset-right)) max(32px, env(safe-area-inset-bottom)) max(16px, env(safe-area-inset-left));
+  }
+  main { max-width: 40rem; margin: 0 auto; }
+  h1 { font-size: 1.75rem; line-height: 1.2; margin: 0 0 0.4rem; }
+  .lead { margin: 0 0 1.25rem; color: var(--muted); font-size: 1rem; }
+  .apps { display: flex; flex-direction: column; gap: 12px; margin: 0 0 1.75rem; }
+  a.big {
+    display: flex;
+    align-items: center;
+    min-height: 64px;
+    padding: 16px 18px;
+    background: var(--accent);
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.35rem;
+    font-weight: 700;
+    border-radius: 12px;
+  }
+  a.big:active { filter: brightness(0.92); }
+  section {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 14px 16px 8px;
+  }
+  h2 { font-size: 1.25rem; margin: 0 0 0.6rem; }
+  ul { list-style: none; margin: 0; padding: 0; }
+  li { border-top: 1px solid var(--line); }
+  li:first-child { border-top: 0; }
+  li a {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    padding: 12px 2px;
+    min-height: 48px;
+    color: #1d4ed8;
+    text-decoration: none;
+    font-size: 1.05rem;
+  }
+  li a span { color: var(--muted); font-size: 0.85rem; white-space: nowrap; }
+  .zip a { font-weight: 700; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Раанана</h1>
+  <p class="lead">Карта объявлений Yad2 и калькулятор ипотеки. Сбор 23 ноября 2026. Цены — запрашиваемые, не сделки.</p>
+  <nav class="apps" aria-label="Страницы">
+    <a class="big" href="raanana_map.html">Карта Раананы</a>
+    <a class="big" href="sorrento_calc.html">Калькулятор Соренто</a>
+  </nav>
+  <section>
+    <h2>Данные</h2>
+    <ul>
+      <li><a href="listings.csv">Объявления, CSV<span>330 КБ</span></a></li>
+      <li><a href="listings.json">Объявления, JSON<span>947 КБ</span></a></li>
+      <li><a href="neighborhoods.csv">Районы, CSV<span>6 КБ</span></a></li>
+      <li><a href="neighborhoods.json">Районы, JSON<span>19 КБ</span></a></li>
+      <li><a href="neighborhoods.geojson">Полигоны районов, GeoJSON<span>25 КБ</span></a></li>
+      <li><a href="city_boundary.geojson">Граница города, GeoJSON<span>10 КБ</span></a></li>
+      <li><a href="stations.json">Железнодорожные станции<span>1 КБ</span></a></li>
+      <li><a href="projects.json">Новостройки Yad2<span>12 КБ</span></a></li>
+      <li><a href="lottery_timelines.csv">Сроки лотерей, CSV<span>34 КБ</span></a></li>
+      <li><a href="rent_status.json">Статус сбора аренды<span>1 КБ</span></a></li>
+      <li><a href="rent_sources.json">Источники по аренде<span>8 КБ</span></a></li>
+      <li><a href="meta.json">Метаданные сбора<span>2 КБ</span></a></li>
+      <li><a href="README.md">Описание пакета<span>18 КБ</span></a></li>
+      <li class="zip"><a href="yad2-raanana-2026-11-23.zip">Архив данных, ZIP<span>255 КБ</span></a></li>
+    </ul>
+  </section>
+</main>
+</body>
+</html>
